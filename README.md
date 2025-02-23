@@ -1,4 +1,4 @@
-# Reliability-Aware Performance of DNN HW Accelerators through Heterogeneous Quantization
+# Reliability-Aware Performance Optimization of DNN HW Accelerators through Heterogeneous Quantization
 
 Link to the paper:
 
